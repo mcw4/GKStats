@@ -1,0 +1,14 @@
+{
+  "name": "Keeper Log",
+  "short_name": "Keeper Log",
+  "description": "Track your goalkeeper's matches from the touchline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f7f1",
+  "theme_color": "#f8f7f1",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
